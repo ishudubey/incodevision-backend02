@@ -1,7 +1,4 @@
 # JWT Authentication Project - Task 02
-
-![Project Logo](link-to-your-logo-or-screenshot)  
-
 ## Overview
 This project implements **JWT-based authentication** using **Django** and **Django REST Framework**. It allows users to **register, login, refresh tokens, and access protected endpoints** securely. This project was completed as **Task 02** during my internship at **IncodeVision**.
 
